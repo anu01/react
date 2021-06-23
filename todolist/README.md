@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This is simple UI for todo List preparation. 
+### It includes UI for: 
+    1. Enter new items to todo list. 
+    2. Check/uncheck items
+    3. View checked items separately
+    4. remove selectd item
+    5. View checked and unchecked items in different style
+
+
 
 ## Available Scripts
 
